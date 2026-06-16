@@ -1,5 +1,3 @@
-# Omio
-
 ## About Me
 Technical Services Analyst with over 2 years of experience across IT support, systems administration, and enterprise infrastructure. Strong hands-on experience with Windows Server environments, including Active Directory, DNS, and Group Policy, with a focus on practical implementation and troubleshooting.
 
@@ -8,10 +6,11 @@ Technical Services Analyst with over 2 years of experience across IT support, sy
 - File Services (SMB shares, NTFS permissions, drive mapping)
 - Microsoft 365 and Partner Center
 - Networking (TCP/IP, VLANs, VPNs, DNS, DHCP)
-- Virtualisation (VMware)
+- Virtualisation (VMware, VirtualBox)
 - System troubleshooting and support
 
 ## Certifications
+- BSc Computer Science
 - CCNA
 - ICDL
 - Familiar with ITIL principles
