@@ -1,16 +1,25 @@
-## Hi there 👋
+# Omio
 
-<!--
-**aaomio/aaomio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Technical Services Analyst with over 2 years of experience across IT support, systems administration, and enterprise infrastructure. Strong hands-on experience with Windows Server environments, including Active Directory, DNS, and Group Policy, with a focus on practical implementation and troubleshooting.
 
-Here are some ideas to get you started:
+## Core Skills
+- Windows Server (Active Directory, DNS, Group Policy)
+- File Services (SMB shares, NTFS permissions, drive mapping)
+- Microsoft 365 and Partner Center
+- Networking (TCP/IP, VLANs, VPNs, DNS, DHCP)
+- Virtualisation (VMware)
+- System troubleshooting and support
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- CCNA
+- ICDL
+- Familiar with ITIL principles
+
+## Interests
+- Windows infrastructure and system administration
+- Networking and security
+- Lab-based learning and real-world implementation
+
+## Contact
+- LinkedIn: [aaomio](https://www.linkedin.com/in/aaomio/)
