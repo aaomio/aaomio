@@ -1,5 +1,5 @@
 ## About Me
-Technical Services Analyst with over 2 years of experience across IT support, systems administration, and enterprise infrastructure. Strong hands-on experience with Windows Server environments, including Active Directory, DNS, and Group Policy, with a focus on practical implementation and troubleshooting.
+Technical Services Analyst with over 2 years of experience in IT support and systems administration within enterprise environments. Experienced in Windows Server infrastructure, including Active Directory, DNS, and Group Policy, with a strong focus on hands-on implementation, troubleshooting, and maintaining stable domain services.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aaomio&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
