@@ -6,10 +6,6 @@ Technical Services Analyst with over 2 years of experience in IT support and sys
   <img src="https://streak-stats.demolab.com?user=aaomio&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaomio&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ## Core Skills
 - Windows Server (Active Directory, DNS, Group Policy)
 - File Services (SMB shares, NTFS permissions, drive mapping)
