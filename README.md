@@ -9,8 +9,8 @@ Technical Services Analyst with over 2 years of experience in IT support and sys
 ## Core Skills
 - Windows Server (Active Directory, DNS, Group Policy)
 - File Services (SMB shares, NTFS permissions, drive mapping)
-- Microsoft 365 and Partner Center
-- Networking (TCP/IP, VLANs, VPNs, DNS, DHCP)
+- Microsoft 365 and Partner Center (Azure, Entra ID, Exchange)
+- Networking (VLANs, WLANs, VPNs, DNS, DHCP, Firewall)
 - Virtualisation (VMware, VirtualBox)
 - System troubleshooting and support
 
@@ -27,7 +27,7 @@ Technical Services Analyst with over 2 years of experience in IT support and sys
 - BSc Computer Science
 - CCNA
 - ICDL
-- Familiar with ITIL principles
+- CCNP*
 
 ## Interests
 - Windows infrastructure and system administration
