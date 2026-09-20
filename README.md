@@ -3,7 +3,6 @@
 Computer Science graduate with a strong interest in networking, systems administration, cybersecurity, and network automation. Enjoy building hands-on labs and projects to explore technologies through practical implementation, troubleshooting, and experimentation.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaomio&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://streak-stats.demolab.com?user=aaomio&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
