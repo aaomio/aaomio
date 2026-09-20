@@ -4,10 +4,7 @@ Computer Science graduate with a strong interest in networking, systems administ
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aaomio&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaomio&theme=tokyo-night&hide_border=true" width="90%"/>
+  <img src="https://streak-stats.demolab.com?user=aaomio&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ## Core Skills
