@@ -1,4 +1,3 @@
-```markdown
 ## About Me
 
 Computer Science graduate with a strong interest in networking, systems administration, cybersecurity, and network automation. Enjoy building hands-on labs and projects to explore technologies through practical implementation, troubleshooting, and experimentation.
@@ -47,4 +46,3 @@ Computer Science graduate with a strong interest in networking, systems administ
 ## Contact
 
 - LinkedIn: [aaomio](https://www.linkedin.com/in/aaomio/)
-```
